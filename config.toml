@@ -2,7 +2,7 @@ baseurl = "http://tolunchandbeyond.site/"
 theme = "aglaus"
 title = "All about Olivia"
 author = "Olivia"
-copyright = "Copyright (c) 2016, Ella."
+copyright = "Copyright (c) 2016, Olivia."
 canonifyurls = true
 paginate = 3
 
