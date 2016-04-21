@@ -1,0 +1,11 @@
+baseurl = "http://tolunchandbeyond.site/"
+theme = "aglaus"
+title = "All about Olivia"
+author = "Olivia"
+copyright = "Copyright (c) 2016, Ella."
+canonifyurls = true
+paginate = 3
+
+[params]
+  # disqusShortname = "your disqus id." # optional
+  toc = true # optional, When set to TRUE this parameter, table of contents appears in all articles.
